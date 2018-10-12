@@ -1,4 +1,4 @@
-WELCOME TO THE MEMBER PROFILES!! Raian why your change it?
+WELCOME TO THE MEMBER PROFILES!!
 
 Add a new line to this file with these things:
 Name, Favorite food, Grade, Fun Fact (or boring fact), and anything else!
@@ -12,15 +12,12 @@ Eilleen Zhang. Senior. Watermelon. I am fun. Needs sleep. Anything Else.
 second example wooooooooo
 Hack Club. Eighth Grade. Food. Boring. Something.
 
-Rober Martin. child. my social security number is 123-654 it's not a human
+Rober Martin. child. my social security number is 123-654
+
 Steven Wong. Sophomore. Sushi (or any other Japanese food). I like playing Roblox and reading. I run a YouTube channel @AquaJet738.
+
 Celine Kim. Junior. Pineapples but I love all kinds of food. I am Libra.
-Patrick Maloney - Irish Sausages - 10th - I'm in intro to computer science.
-Jada Pisani. Freshman. I am amazing. I also like watermelon. Ice cream. Pasta. Good food. Harry Potter is real. Morning person. British accents are better than anyother. Slytherin is the best house. More fun stuff...
 
-David Liu. Sophomore. Likes food. blueberries are the best fruit. Dislikes reading.
+Jada Pisani. Freshman. I am amazing. I also like watermelon. Ice cream. Pasta. Good food. Harry Potter is real. Morning person. British accents are better than any other. Slytherin is the best house. More fun stuff...
 
-
-
-
-Hot dogs are sandwiches. While, admittedly, traditional sandwiches have bread that's disconnected, and wraps or burritos have bread that reach 360 degrees around, the world has moved on. To be traditional is to believe that if you walked far enough you would reach the end of the world. The world keeps spinning and hot dogs have become sandwiches.
+Kristen Wong. Junior. I draw to the point of spraining my wrist at times. I will make a photo album containing drawn memes and inside jokes I will have collected over the course of this year.
