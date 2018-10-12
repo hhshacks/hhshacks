@@ -1,20 +1,19 @@
-WELCOME TO THE Hell //MEMBER PROFILES!!
+WELCOME TO THE MEMBER PROFILES!!
 
 Add a new line to this file with these things:
 Name, Favorite food, Grade, Fun Fact (or boring fact), and anything else!
 
 # Zero example
-Tim Malko. Senior. sqrt(2) irrational number, and anything else! I am oven (Aries)
+Tim Malko. Senior. sqrt(2) irrational number, and anything else!
 
 # Example
 Eilleen Zhang. Senior. Watermelon. I am fun. Anything Else.
 
 second example wooooooooo
-Hack Club. Eighth Grade. Food. Boring. Something.
+Hack Club. Eighth Grade. Food. Boring. Needs sleep. Something.
 
 Rober Martin. child. my social security number is 123-654
 Steven Wong. Sophomore. Sushi (or any other Japanese food). I like playing Roblox and reading. I run a YouTube channel @AquaJet738.
 Celine Kim. Junior. Pineapples but I love all kinds of food. I am Libra.
 
-
-new branch
+Jada Pisani. Freshman. I am amazing. I also like watermelon. Ice cream. Pasta. Good food. Harry Potter is real. Morning person. British accents are better than anyother. Slytherin is the best house. More fun stuff...
