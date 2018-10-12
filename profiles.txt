@@ -4,7 +4,7 @@ Add a new line to this file with these things:
 Name, Favorite food, Grade, Fun Fact (or boring fact), and anything else!
 
 # Zero example
-Tim Malko. Senior. sqrt(2) irrational number, and anything else!
+Tim Malko. Senior. sqrt(2) irrational number, and anything else! I am oven (Aries)
 
 # Example
 Eilleen Zhang. Senior. Watermelon. I am fun. Anything Else.
