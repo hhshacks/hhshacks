@@ -1,7 +1,12 @@
 WELCOME TO THE MEMBER PROFILES!!
 
-# Add a new line to this file with these things:
-# Name, Favorite food, Grade, Fun Fact (or boring fact), and anything else!
+Add a new line to this file with these things:
+Name, Favorite food, Grade, Fun Fact (or boring fact), and anything else!
 
 # Example
 Eilleen Zhang. Senior. Watermelon. I am fun. Anything Else.
+
+
+
+second example wooooooooo
+Hack Club. Eighth Grade. Food. Boring. Something.
