@@ -3,3 +3,6 @@
 
 // prints "hi" in the browser's dev tools console
 console.log('hi');
+
+//Hi people -Steven (AquaJet738)
+console.log('Subscribe to my YouTube channel for cool Roblox videos!')
