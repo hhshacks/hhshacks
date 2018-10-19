@@ -1,0 +1,86 @@
+/* CSS files add styling rules to your content */
+
+body {
+	font-family: Avenir Next, Helvetica, sans serif;
+	background-color: #B9D9EB;
+	/*background: url("space_bg.jpg");
+	background-size: fill;*/
+}
+
+
+h1, h2, h3 {
+	color: #e42d42;
+	text-align: center;
+}
+
+.center {
+	margin: auto;
+	display: block;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.gradientdiv {
+	height: 200px;
+	width: 200px;
+	background: linear-gradient(45deg, #1F5774,#BDD1C6);
+}
+
+#hc_flag {
+	width: 15%;
+	padding: 0px 0px;
+}
+
+#hc_gif{
+	width: 30%;
+	/*position: inline;*/
+}
+
+#hc-home {
+  text-decoration: underline;
+}
+
+.button {
+	background-color: #2d9ee4;
+	border: none;
+	color: white;
+	padding: 15px 25px;
+	text-align: center;
+	font-size: 16px;
+	cursor: pointer;
+	
+}
+
+
+#navlist_list {
+  list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	border: 1px solid #e7e7e7;
+	background-color: #f3f3f3;
+}
+
+.navlist_item {
+	float: left;
+	display: block;
+	color: #666;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+
+
+
+.spacer {
+	height: 10px;
+}
+
+.button:hover {
+	background-color: #144664;
+	text-decoration: underline;
+}
